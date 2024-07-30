@@ -16,8 +16,8 @@ export const MyComponent = () => {
         controls
         style={{ width: "100%" }}
       />
-      <div style={{ width: "100%" }}>
-        <OverlayInput />
+      <div style={{ width: "1i00%" }}>
+      <OverlayInput />
       </div>
     </VideoProvider>
   );
