@@ -1,17 +1,47 @@
 # Remotion video
 
 <p align="center">
-  <a href="https://github.com/remotion-dev/logo">
+  <a href="https://github.com/rajput-balram">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/remotion-dev/logo/raw/main/animated-logo-banner-dark.gif">
-      <img alt="Animated Remotion Logo" src="https://github.com/remotion-dev/logo/raw/main/animated-logo-banner-light.gif">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Rajput-Balram/VideoTextMagic/blob/main/public/asset/samplePic.png">
+      <img alt="Animated Remotion Logo" src="https://github.com/Rajput-Balram/VideoTextMagic/blob/main/public/asset/samplePic.png">
     </picture>
   </a>
 </p>
 
-Welcome to your Remotion project!
+Welcome to my Remotion project!
 
-## Commands
+Video Text Magic is a web-based application that enhances video playback with custom text overlays, animations, and font customizations. The project allows users to interact with videos by adding timed text overlays and customizing their appearance, providing a more engaging viewing experience.
+
+## Features
+* Video Playback Controls
+
+*Play and pause functionalities for seamless video playback.
+Use any demo video of your choice to explore the application's features.*
+
+* Timestamp-Based Text Overlay
+
+*Add text overlays that appear at specific times during the video.
+A user-friendly interface allows you to input text and set the exact timestamp for display.*
+
+* Animation and Font Customization
+
+*Animate text overlays with options like fade-in and slide-in effects.
+Choose from at least three different fonts to customize the appearance of your text overlays.*
+
+## Installation
+
+**clone the repository**
+
+```console
+git clone https://github.com/rajput-balram/VideoTextMagic.git
+```
+
+**Navigate to the project directory:**
+
+```console
+cd my-video
+```
 
 **Install Dependencies**
 
